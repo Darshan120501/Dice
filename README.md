@@ -1,6 +1,7 @@
 # dice_roll
 
-A new Flutter application.
+A Simple Dice roller application created using Flutter
+
 
 ## Getting Started
 
